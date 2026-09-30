@@ -59,3 +59,9 @@ AI-Expense-Tracker/
 |-- .gitignore
 |-- README.md
 `-- venv/
+
+## Live Demo
+
+## Live Demo
+
+[Open FinTrack AI](https://ai-expense-tracker-thusha.streamlit.app/)
